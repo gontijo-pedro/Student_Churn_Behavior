@@ -1,6 +1,6 @@
 # Data analysis
 - Document here the project: Student_Churn_Behavior
-- Description: Project Description
+- Description: Evaluation of student's behavior regarding churn in a prep school.
 - Data Source:
 - Type of analysis:
 
